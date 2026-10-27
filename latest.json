@@ -1,7 +1,7 @@
 {
- "version": "0.3.0",
+ "version": "0.3.1",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.0.zip",
- "sha256": "d37574dd6f66e0a459783ddfcbbaa695fa960150e6c592306ddaea83ef1e359b",
- "notes": "First release"
+ "zip": "r6-scout-update-0.3.1.zip",
+ "sha256": "92a725d331f128baf08ca1c5f45ea216978ce43bd58e4035a024c39d89e80a81",
+ "notes": "Clearer messages for replays that cannot be read; stats-only rounds are labelled; fewer false debris/holes, reinforcements fill their walls, barricades fit"
 }
