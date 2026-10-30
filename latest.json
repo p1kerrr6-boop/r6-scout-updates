@@ -1,7 +1,7 @@
 {
- "version": "0.3.1",
+ "version": "0.3.2",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.1.zip",
- "sha256": "92a725d331f128baf08ca1c5f45ea216978ce43bd58e4035a024c39d89e80a81",
- "notes": "Clearer messages for replays that cannot be read; stats-only rounds are labelled; fewer false debris/holes, reinforcements fill their walls, barricades fit"
+ "zip": "r6-scout-update-0.3.2.zip",
+ "sha256": "851dc812dfb7c8027e5a35b7b8f261f4aa9e094c03a4f7c2222c0982a868b676",
+ "notes": "Breaks defenders make in prep are shown again; second gadgets (barbed wire, impact grenade, Nitro Cell) read correctly for Azami, Aruni, Kaid, Thorn and others; reinforcements no longer stack on one wall piece; reinforced hatches count as reinforcements and sit on the hatch; shotgun/grenade/Hard Breach naming fixes; drones on by default for attack; icon and export fixes"
 }
