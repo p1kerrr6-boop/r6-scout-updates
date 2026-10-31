@@ -1,7 +1,7 @@
 {
- "version": "0.3.3",
+ "version": "0.3.4",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.3.zip",
- "sha256": "670855ac1b51aa3d4fd581efbdd38c8053ee1e54df37070e3928a5ed97cf400a",
- "notes": "Output is now organised by map and bomb site (Map / Site / date_round_side_floor.png) with the round number in every file name; every image has a round clock badge, the player key under the blueprint, and a round summary (clock bar with kills, kill feed with times, setup counts)"
+ "zip": "r6-scout-update-0.3.4.zip",
+ "sha256": "e071d7e2e80407d0706982f1a80e595e78469c7ec1d3d0972b64a77cb94a93b5",
+ "notes": "Drone pictures: drones only, one per floor at prep 0:40 to 0:05 and 2:40. Output now just the timeline folder by default. Y11S2 replays now show player positions. Long player names no longer run off the key. Prep clock counts down."
 }
