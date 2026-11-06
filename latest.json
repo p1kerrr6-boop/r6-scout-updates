@@ -1,7 +1,7 @@
 {
- "version": "0.3.4",
+ "version": "0.3.5",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.4.zip",
- "sha256": "e071d7e2e80407d0706982f1a80e595e78469c7ec1d3d0972b64a77cb94a93b5",
- "notes": "Drone pictures: drones only, one per floor at prep 0:40 to 0:05 and 2:40. Output now just the timeline folder by default. Y11S2 replays now show player positions. Long player names no longer run off the key. Prep clock counts down."
+ "zip": "r6-scout-update-0.3.5.zip",
+ "sha256": "81f2718182ca088c8cf283a39aec2a867dc1e74765d7c30a0c0bae669c0cc42a",
+ "notes": "Manage stored data: delete matches (or everything) from the Data area. Utility fixes: Mute's Nitro Cell, Solis's impact grenades, Warden, Castle and Kaid secondary gadgets now show; Solis's scanner is no longer drawn as barbed wire."
 }
