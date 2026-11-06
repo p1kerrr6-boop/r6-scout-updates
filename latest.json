@@ -1,7 +1,7 @@
 {
- "version": "0.3.8",
+ "version": "0.3.9",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.8.zip",
- "sha256": "0e075defaf13ae8cd40eb966e2ed5f2f0142afb76cd65e172d14a608140011de",
- "notes": "Prep deck: every player on a slide now gets a different colour (a player from an older line-up could push Jeggz onto NikkeS's blue), regulars keep the same colour across the deck, and the Notes box no longer shows 'Late: null'."
+ "zip": "r6-scout-update-0.3.9.zip",
+ "sha256": "19fa7f0ebd1ecd62d8061a05fc0e372d350f59cf4234714a5b6c442ae9b251e7",
+ "notes": "Prep deck: rounds tables and the Notes box now show just the round number (R5), without the game number (G2\u00b7R5). Player colours stay unique on every slide."
 }
