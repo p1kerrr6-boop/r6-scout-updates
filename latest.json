@@ -1,7 +1,7 @@
 {
- "version": "0.3.10",
+ "version": "0.3.11",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.10.zip",
- "sha256": "0973126c113d6b711f49f3548106cc802f0233c6040798095549a700769b08d5",
- "notes": "Prep deck: new tick-box tags. Defence: Default, Aggressive, Bunker, Layer, Heavy Roam, Wall Denial. Attack: Split, Direct, Over, Clear, Rush, Slow pacing."
+ "zip": "r6-scout-update-0.3.11.zip",
+ "sha256": "a8c1ac4814209bfacf765c5ad4a42dd430967dece4f0b45e2326d22ce14a7b48",
+ "notes": "Prep deck: flashcard slides for defence and attack right after each map name. One card per site with each player's most played operator in their colour, the site name on one line, and an empty box for the plan."
 }
