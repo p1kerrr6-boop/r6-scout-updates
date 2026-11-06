@@ -1,7 +1,7 @@
 {
- "version": "0.3.9",
+ "version": "0.3.10",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.9.zip",
- "sha256": "19fa7f0ebd1ecd62d8061a05fc0e372d350f59cf4234714a5b6c442ae9b251e7",
- "notes": "Prep deck: rounds tables and the Notes box now show just the round number (R5), without the game number (G2\u00b7R5). Player colours stay unique on every slide."
+ "zip": "r6-scout-update-0.3.10.zip",
+ "sha256": "0973126c113d6b711f49f3548106cc802f0233c6040798095549a700769b08d5",
+ "notes": "Prep deck: new tick-box tags. Defence: Default, Aggressive, Bunker, Layer, Heavy Roam, Wall Denial. Attack: Split, Direct, Over, Clear, Rush, Slow pacing."
 }
