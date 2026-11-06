@@ -1,7 +1,7 @@
 {
- "version": "0.3.6",
+ "version": "0.3.7",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.6.zip",
- "sha256": "fad082e5990d3fd7478ca70d60e47199a5fd93230192d02d99f3e6ff8d946319",
- "notes": "Batch export now asks which team the export is for (required), so the prep decks are built for that one team on both defence and attack. The team is remembered for next time."
+ "zip": "r6-scout-update-0.3.7.zip",
+ "sha256": "8a229503e50f5153de935af14ad227f3c29ff70f1ab1e7ae373752db1aceb358",
+ "notes": "Batch export can now build the PowerPoint prep deck itself (tick box 'also build the prep deck'): bans, defence and attack overviews, rounds tables with VOD cells, blueprints with Castle panels, gadget options, defenders on the attack slides, and a Notes box with roamers, repeats, late setup and tags. Needs the team box filled in."
 }
