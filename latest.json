@@ -1,7 +1,7 @@
 {
- "version": "0.3.5",
+ "version": "0.3.6",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.5.zip",
- "sha256": "81f2718182ca088c8cf283a39aec2a867dc1e74765d7c30a0c0bae669c0cc42a",
- "notes": "Manage stored data: delete matches (or everything) from the Data area. Utility fixes: Mute's Nitro Cell, Solis's impact grenades, Warden, Castle and Kaid secondary gadgets now show; Solis's scanner is no longer drawn as barbed wire."
+ "zip": "r6-scout-update-0.3.6.zip",
+ "sha256": "fad082e5990d3fd7478ca70d60e47199a5fd93230192d02d99f3e6ff8d946319",
+ "notes": "Batch export now asks which team the export is for (required), so the prep decks are built for that one team on both defence and attack. The team is remembered for next time."
 }
