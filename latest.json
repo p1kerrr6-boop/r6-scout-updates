@@ -1,7 +1,7 @@
 {
- "version": "0.3.11",
+ "version": "0.3.12",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.11.zip",
- "sha256": "a8c1ac4814209bfacf765c5ad4a42dd430967dece4f0b45e2326d22ce14a7b48",
- "notes": "Prep deck: flashcard slides for defence and attack right after each map name. One card per site with each player's most played operator in their colour, the site name on one line, and an empty box for the plan."
+ "zip": "r6-scout-update-0.3.12.zip",
+ "sha256": "a530b07601019a5eb3f37c60bb2a9576e96589ab996b4f60f1d51d4c736d4a73",
+ "notes": "Attack slides: the header shows only the operator icon, no utility. Attacker gadgets are now checked against what each operator can carry, one kind per operator per round."
 }
