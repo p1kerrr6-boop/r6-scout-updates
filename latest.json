@@ -1,7 +1,7 @@
 {
- "version": "0.3.14",
+ "version": "0.3.15",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.14.zip",
- "sha256": "c99bdd4a59fddf44b4ec98da640faf9ab5327fbd6220501574706a9911561841",
- "notes": "Prep deck: attack slides now show Notes (empty, for you) and Repeats & Tendencies about your attackers: line-up repeats, repeated operators, drones and the opening kill. Repeats box renamed Repeats & Tendencies on every slide."
+ "zip": "r6-scout-update-0.3.15.zip",
+ "sha256": "27286cd69816020f57972ef90fa3fa1b9cd54062ceb19a7ffbdab2ed010483fb",
+ "notes": "Prep deck: Fast pacing tag added under Slow pacing on the attack slides and the attack tag slide."
 }
