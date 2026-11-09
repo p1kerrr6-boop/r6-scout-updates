@@ -1,7 +1,7 @@
 {
- "version": "0.3.15",
+ "version": "0.3.16",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.15.zip",
- "sha256": "27286cd69816020f57972ef90fa3fa1b9cd54062ceb19a7ffbdab2ed010483fb",
- "notes": "Prep deck: Fast pacing tag added under Slow pacing on the attack slides and the attack tag slide."
+ "zip": "r6-scout-update-0.3.16.zip",
+ "sha256": "9c5f1c358ede409afd7435c204196ec28ca571adcd74c2de97e376c8e6527c50",
+ "notes": "Prep deck: the Record panel on the defence and attack overviews is now called Win Rate."
 }
