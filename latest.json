@@ -1,7 +1,7 @@
 {
- "version": "0.3.12",
+ "version": "0.3.13",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.12.zip",
- "sha256": "a530b07601019a5eb3f37c60bb2a9576e96589ab996b4f60f1d51d4c736d4a73",
- "notes": "Attack slides: the header shows only the operator icon, no utility. Attacker gadgets are now checked against what each operator can carry, one kind per operator per round."
+ "zip": "r6-scout-update-0.3.13.zip",
+ "sha256": "a182cd886230eb1c31e8a1997e3f8238d295581fe5377ddf35b08f447fda0a5e",
+ "notes": "Prep deck: game dates in place of the game number (05/11\u00b7R5), and a tag slide after each rounds table with a tick cell per tag for every round, linked to the round slides."
 }
