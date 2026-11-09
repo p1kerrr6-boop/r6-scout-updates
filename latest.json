@@ -1,7 +1,7 @@
 {
- "version": "0.3.13",
+ "version": "0.3.14",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.13.zip",
- "sha256": "a182cd886230eb1c31e8a1997e3f8238d295581fe5377ddf35b08f447fda0a5e",
- "notes": "Prep deck: game dates in place of the game number (05/11\u00b7R5), and a tag slide after each rounds table with a tick cell per tag for every round, linked to the round slides."
+ "zip": "r6-scout-update-0.3.14.zip",
+ "sha256": "c99bdd4a59fddf44b4ec98da640faf9ab5327fbd6220501574706a9911561841",
+ "notes": "Prep deck: attack slides now show Notes (empty, for you) and Repeats & Tendencies about your attackers: line-up repeats, repeated operators, drones and the opening kill. Repeats box renamed Repeats & Tendencies on every slide."
 }
