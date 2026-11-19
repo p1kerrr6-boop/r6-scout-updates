@@ -1,7 +1,7 @@
 {
- "version": "0.3.23",
+ "version": "0.3.24",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.23.zip",
- "sha256": "3c90b5608bb0556df3b77c64c96013166a1d1cd74a605861d5a0db140ac9cb9a",
- "notes": "Prep deck: the team name is now matched ignoring capitals, and a team that is not in the replays or rounds with no utility data give a clear error instead of an empty deck."
+ "zip": "r6-scout-update-0.3.24.zip",
+ "sha256": "722ed8ac2f87a940fa7725b9f04c6928a24c77cce568aa0351670c3d64cb2f29",
+ "notes": "Updates no longer delete the program copy the open window is still running from, which broke Batch export until a restart."
 }
