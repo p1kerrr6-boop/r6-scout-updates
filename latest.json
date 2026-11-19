@@ -1,7 +1,7 @@
 {
- "version": "0.3.19",
+ "version": "0.3.20",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.19.zip",
- "sha256": "11ad70303f8312b5c5c7f146bee6bd931c4604bbb41b580893aefb7d34a993f6",
- "notes": "Tidied Batch export and Manage stored data panels: removed the extra description lines."
+ "zip": "r6-scout-update-0.3.20.zip",
+ "sha256": "7533abeab8cad7ea95046b85219c61fdf69cc2a1fc6b01c77d6cc9acf29e7d9c",
+ "notes": "Batch export: Include options are now a plain checkbox list instead of boxed cards."
 }
