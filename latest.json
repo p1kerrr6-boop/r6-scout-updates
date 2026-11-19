@@ -1,7 +1,7 @@
 {
- "version": "0.3.24",
+ "version": "0.3.25",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.24.zip",
- "sha256": "722ed8ac2f87a940fa7725b9f04c6928a24c77cce568aa0351670c3d64cb2f29",
- "notes": "Updates no longer delete the program copy the open window is still running from, which broke Batch export until a restart."
+ "zip": "r6-scout-update-0.3.25.zip",
+ "sha256": "d29beb3dbe07d5b25eaeab7eec7a43deff757a3d118537d0966af3ded778a034",
+ "notes": "Prep deck: map slides show clan-tagged names on two lines, no map name in the defending box, no faded possible-gadget icons; the tag slides no longer carry the instruction line."
 }
