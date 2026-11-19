@@ -1,7 +1,7 @@
 {
- "version": "0.3.16",
+ "version": "0.3.17",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.16.zip",
- "sha256": "9c5f1c358ede409afd7435c204196ec28ca571adcd74c2de97e376c8e6527c50",
- "notes": "Prep deck: the Record panel on the defence and attack overviews is now called Win Rate."
+ "zip": "r6-scout-update-0.3.17.zip",
+ "sha256": "9c4bd6998ac0202c1b3531a5a3b6b552dec98b3024755cf4a2e93a370c9c7bb4",
+ "notes": "Batch export panel redesigned: folders, team and options laid out cleanly. The timeline frames and blueprint-edits options are removed."
 }
