@@ -1,7 +1,7 @@
 {
- "version": "0.3.17",
+ "version": "0.3.18",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.17.zip",
- "sha256": "9c4bd6998ac0202c1b3531a5a3b6b552dec98b3024755cf4a2e93a370c9c7bb4",
- "notes": "Batch export panel redesigned: folders, team and options laid out cleanly. The timeline frames and blueprint-edits options are removed."
+ "zip": "r6-scout-update-0.3.18.zip",
+ "sha256": "78716db922d90ce4f1cb23c6f69cd2805c5931e16909cf4d4095c1d97b79998b",
+ "notes": "Scout data: K/D and Headshots tiles removed, first-kill tiles show team names, sites grouped by map (no K/D), players table shows Open K and Open D and drops Rds and HS."
 }
