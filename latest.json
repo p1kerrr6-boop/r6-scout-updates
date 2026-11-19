@@ -1,7 +1,7 @@
 {
- "version": "0.3.22",
+ "version": "0.3.23",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.22.zip",
- "sha256": "677f8cc19ed53d12b7939868f5445911838b6bafc4abafacebcb0a38a4b33128",
- "notes": "Overall breakdown: Operators can be switched between Graphs and List, and now cover every operator instead of the top 8."
+ "zip": "r6-scout-update-0.3.23.zip",
+ "sha256": "3c90b5608bb0556df3b77c64c96013166a1d1cd74a605861d5a0db140ac9cb9a",
+ "notes": "Prep deck: the team name is now matched ignoring capitals, and a team that is not in the replays or rounds with no utility data give a clear error instead of an empty deck."
 }
