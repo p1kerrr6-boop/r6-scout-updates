@@ -1,7 +1,7 @@
 {
- "version": "0.3.21",
+ "version": "0.3.22",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.21.zip",
- "sha256": "a6a8417dfc5571758c0ef02c0bbace9ff506b8493b4f00d4a17f46cfda439db5",
- "notes": "Overall breakdown: new Games list (date, who played who, map, score, VOD link) with automatic VOD lookup through R6 Prep and hand-added links. Drones fade out on the map timeline. Typical line-up tile shows the operators."
+ "zip": "r6-scout-update-0.3.22.zip",
+ "sha256": "677f8cc19ed53d12b7939868f5445911838b6bafc4abafacebcb0a38a4b33128",
+ "notes": "Overall breakdown: Operators can be switched between Graphs and List, and now cover every operator instead of the top 8."
 }
