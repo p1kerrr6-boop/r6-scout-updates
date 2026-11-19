@@ -1,7 +1,7 @@
 {
- "version": "0.3.20",
+ "version": "0.3.21",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.20.zip",
- "sha256": "7533abeab8cad7ea95046b85219c61fdf69cc2a1fc6b01c77d6cc9acf29e7d9c",
- "notes": "Batch export: Include options are now a plain checkbox list instead of boxed cards."
+ "zip": "r6-scout-update-0.3.21.zip",
+ "sha256": "a6a8417dfc5571758c0ef02c0bbace9ff506b8493b4f00d4a17f46cfda439db5",
+ "notes": "Overall breakdown: new Games list (date, who played who, map, score, VOD link) with automatic VOD lookup through R6 Prep and hand-added links. Drones fade out on the map timeline. Typical line-up tile shows the operators."
 }
