@@ -1,7 +1,7 @@
 {
- "version": "0.3.25",
+ "version": "0.3.26",
  "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.25.zip",
- "sha256": "d29beb3dbe07d5b25eaeab7eec7a43deff757a3d118537d0966af3ded778a034",
- "notes": "Prep deck: map slides show clan-tagged names on two lines, no map name in the defending box, no faded possible-gadget icons; the tag slides no longer carry the instruction line."
+ "zip": "r6-scout-update-0.3.26.zip",
+ "sha256": "c07d6351f3dbbd3fd683080ff9e78a77212eaaeec1c7db9e5f37a06a0bc11d27",
+ "notes": "Valkyrie: her thrown impact grenades are no longer drawn as extra cameras (limit 3), and cameras hung just under a floor above are drawn on the floor they are really on."
 }
