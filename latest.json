@@ -1,7 +1,7 @@
 {
-  "version": "0.3.27",
+  "version": "0.3.28",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.27.zip",
-  "sha256": "a4a932d3f3221ed23eb7f97d404e89b2d6655307c3ad0104b81f4b826cf1e779",
-  "notes": "Clubhouse: Denari connectors stuck under the floor above are drawn in the basement, reinforced hatches placed from below are recognised, and stray Denari spawn markers are no longer drawn. Process the replays again to see it."
+  "zip": "r6-scout-update-0.3.28.zip",
+  "sha256": "2cdced1f722fbe9713cc1ffdecf8cbd9730b03f3d6e9f317ce1e72d145af7b13",
+  "notes": "Prep deck overview: \"Site preference\" is now \"Best sites to attack\" / \"Best sites to defend\", ranked by win rate with the record under each site."
 }
