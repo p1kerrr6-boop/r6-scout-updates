@@ -1,7 +1,7 @@
 {
- "version": "0.3.26",
- "minBase": "0.3.0",
- "zip": "r6-scout-update-0.3.26.zip",
- "sha256": "c07d6351f3dbbd3fd683080ff9e78a77212eaaeec1c7db9e5f37a06a0bc11d27",
- "notes": "Valkyrie: her thrown impact grenades are no longer drawn as extra cameras (limit 3), and cameras hung just under a floor above are drawn on the floor they are really on."
+  "version": "0.3.27",
+  "minBase": "0.3.0",
+  "zip": "r6-scout-update-0.3.27.zip",
+  "sha256": "a4a932d3f3221ed23eb7f97d404e89b2d6655307c3ad0104b81f4b826cf1e779",
+  "notes": "Clubhouse: Denari connectors stuck under the floor above are drawn in the basement, reinforced hatches placed from below are recognised, and stray Denari spawn markers are no longer drawn. Process the replays again to see it."
 }
