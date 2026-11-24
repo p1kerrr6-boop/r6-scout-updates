@@ -1,7 +1,8 @@
 {
-  "version": "0.3.41",
+  "version": "0.3.42",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.41.zip",
-  "sha256": "b1b9fd73120de4bf1c1d1f2540a33fd5dcc8b6ab69dc2e05da9b692d3ad66a18",
-  "notes": "New Phone / tablet button: switch it on and phones and tablets on the same Wi-Fi or LAN can open R6 Scout from your computer (scan the QR code, enter the PIN, Add to Home Screen). They can look at everything and save playlists; uploading and deleting stay on the computer. Off until you switch it on. Windows may ask to allow R6 Scout on the network: choose Private. Restart the app after updating."
+  "zip": "r6-scout-update-0.3.42.zip",
+  "sha256": "ac66ab4505dbf02d69083721f8e95b6bf018d69beac63735b32e04cf13c0bfb5",
+  "notes": "Security: your stored data (rounds, playlists, settings) is now encrypted on disk with a key protected by your Windows account; a damaged data file is no longer overwritten and shows a warning instead; other websites can no longer talk to the app or R6 Prep on your computer; the app window only shows this app; and from now on updates must be signed by the publisher or the app refuses them. Restart the app after updating.",
+  "signature": "6wD5R5WGceGP9VfmnZhZ/I57EtYQRJI7AjwqBQByAGA9sTv0so2F26tIqbzmVF5ErXgdFGrnbflsR5AaFzo6BQ=="
 }
