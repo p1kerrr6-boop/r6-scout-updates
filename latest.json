@@ -1,7 +1,7 @@
 {
-  "version": "0.3.36",
+  "version": "0.3.37",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.36.zip",
-  "sha256": "e8c3805d33a9bc882434d47832f73d0e24b3069c8b69a9a699784ea6835ed871",
-  "notes": "New Players tab: who plays where (each player's most common spots on the map, role guess, operators) and Targets (who dies first, who gets first kills, where the first deaths happen with operator icons), with filters for team, map, site, side, time window, movement, dates and a games picker. The prep deck gets Players and Targets slides for every map on both attack and defence. Restart the app after updating."
+  "zip": "r6-scout-update-0.3.37.zip",
+  "sha256": "93dc007a913f4ef501b8e9e6738fbb1cb57faec13cad9701931dcd5ac4709521",
+  "notes": "Players tab no longer fills in a team or map for you: you choose the team (and map) yourself, and your picks stay while you switch tabs. Restart the app after updating."
 }
