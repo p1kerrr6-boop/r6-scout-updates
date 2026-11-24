@@ -1,8 +1,8 @@
 {
-  "version": "0.3.44",
+  "version": "0.3.45",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.44.zip",
-  "sha256": "97fe9a201fa46bd695c01e0a2396d00c393f4d966f5d39d4fe7fa2357d89b04d",
-  "notes": "The Players tab is now called Player Positions and no longer needs every filter: pick a team and it offers the maps that team has played, the Map and Site lists only show what exists, and Side switches itself when the default side has no rounds. R6 Prep now sits next to R6 Scout. On the R6 Scout tab the round cards and maps are tucked into a collapsed Show rounds section (they open by themselves when you click a site or a player in the breakdown). Restart the app after updating.",
-  "signature": "f629rxOadxKo16/uKJpfl2vl+YIGPeKUAedrGQCucPrAD+NCoDpza4ZeqfHZyjF+f8MwPDiMbko/nPuHrSphDg=="
+  "zip": "r6-scout-update-0.3.45.zip",
+  "sha256": "42adff361f6822cbfb78dbda0165f5f8cd1207d412b57bdc495e033812774c0b",
+  "notes": "VOD lookup fix: VODs found on Liquipedia were being thrown away when the opponent's name was spelled differently (the replay says \"Geekay\", Liquipedia says \"Geekay Esports\"). Names are now compared the way R6 Prep compares them, so those VODs are filled in. Restart the app after updating.",
+  "signature": "MopsTIcinGnS00+9galcE5kWywj4v94qf2JYqJsv8jjtGqJQwHA382D1lb6363iQ6QFph4/n9RNRiyFbEi29Dg=="
 }
