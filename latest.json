@@ -1,7 +1,7 @@
 {
-  "version": "0.3.37",
+  "version": "0.3.38",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.37.zip",
-  "sha256": "93dc007a913f4ef501b8e9e6738fbb1cb57faec13cad9701931dcd5ac4709521",
-  "notes": "Players tab no longer fills in a team or map for you: you choose the team (and map) yourself, and your picks stay while you switch tabs. Restart the app after updating."
+  "zip": "r6-scout-update-0.3.38.zip",
+  "sha256": "c435a6dd2863bc68465e43c653da45d3ba2e2d3a4593a1d95d8a201da231a9e4",
+  "notes": "Players and Targets: the guessed roles (anchor, roamer, entry, lurk) are removed from the app and the prep deck slides; spots, operators and first-death maps stay. Restart the app after updating."
 }
