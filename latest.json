@@ -1,7 +1,7 @@
 {
-  "version": "0.3.35",
+  "version": "0.3.36",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.35.zip",
-  "sha256": "b8a6705c73a8a5aa5262f758ffa4e08ab40e9692cda163c5d2a7005c6608f126",
-  "notes": "New Playlists tab: save rounds into named lists from any round card (+) or from a Find rounds search, add notes, and build a prep deck for one team from a playlist. Restart the app after updating."
+  "zip": "r6-scout-update-0.3.36.zip",
+  "sha256": "e8c3805d33a9bc882434d47832f73d0e24b3069c8b69a9a699784ea6835ed871",
+  "notes": "New Players tab: who plays where (each player's most common spots on the map, role guess, operators) and Targets (who dies first, who gets first kills, where the first deaths happen with operator icons), with filters for team, map, site, side, time window, movement, dates and a games picker. The prep deck gets Players and Targets slides for every map on both attack and defence. Restart the app after updating."
 }
