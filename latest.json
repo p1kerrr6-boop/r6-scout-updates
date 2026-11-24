@@ -1,7 +1,7 @@
 {
-  "version": "0.3.31",
+  "version": "0.3.32",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.31.zip",
-  "sha256": "03116e3edefec5714b9d127a53e037a65a59c619e6b8042a0f148767a7ad1ad0",
-  "notes": "Prep deck: new Opening kills and Opening deaths slides after each attack and defence overview (win rate with and without the opening kill, who gets it or dies first, median time, by-site table)."
+  "zip": "r6-scout-update-0.3.32.zip",
+  "sha256": "3591f66a258c2af0e002f3d7347e5a8ea2249c2bdf2d8bd4b786142209bdb6a4",
+  "notes": "Prep deck: new Map pool and Veto profile slides before the first map, filled from Liquipedia through R6 Prep (not from the replays), with a notice slide if Liquipedia has nothing. Team names match loosely (Geekay finds Geekay Esports). Consulate removed: nine maps. R6 Prep now opens without sign-in and starts the Liquipedia lookup in the background when the app opens. Restart the app after updating."
 }
