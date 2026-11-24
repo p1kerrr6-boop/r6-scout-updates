@@ -1,8 +1,8 @@
 {
-  "version": "0.3.46",
+  "version": "0.3.47",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.46.zip",
-  "sha256": "1cf6d0c2427ce5f3433fd44f2359eacf7bb1e85696e2f975c12f331650b3580d",
-  "notes": "The .rec drop box at the top of R6 Scout is gone. Add replays with Batch export: choose the input folder, tick Add rounds to my scout data, then Process. Restart the app after updating.",
-  "signature": "5C4ZggMR8InkFnbUTabNTEbngMqYb+S2Pw8AeoZtWKEBJFgpJWYr/aXvN3EeLjoES91pve71nP58dJMHxj2cDg=="
+  "zip": "r6-scout-update-0.3.47.zip",
+  "sha256": "ff2b287d455cdbe4036c392c93ed700eca0d864f2d8bd4cb6d34f0fb1b138b4c",
+  "notes": "R6 Prep now uses the same graphite and amber look as R6 Scout: the blue accent is gone and the dark greys match. Attack and defence side colours are unchanged. Restart the app after updating.",
+  "signature": "Kzh7qUrZcSz9/gWFmFQXE1XQFErlYZRd0sYj0yK5lSTnCm3CXy3cxJt2vNfHZLuTqVSuJ/y1fZfrOeCFyjF7DQ=="
 }
