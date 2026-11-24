@@ -1,7 +1,7 @@
 {
-  "version": "0.3.39",
+  "version": "0.3.40",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.39.zip",
-  "sha256": "9ea40c4d86af7351c0efe9993bcf533880dce7c15a44f27328f1795196094b6e",
-  "notes": "Bug fixes after a full check of the app: the prep deck no longer crashes on some maps in the Players and Targets slides, \"died at all\" can no longer exceed the rounds played, the Targets table fits on a phone screen, Enter creates a playlist from the + menu, and a bad request no longer shows a server error. Restart the app after updating."
+  "zip": "r6-scout-update-0.3.40.zip",
+  "sha256": "1591564b812d98abeb08ebdc3c7bdc5d3a002d429831143cfac2795e61a011f3",
+  "notes": "R6 Prep no longer shows a login screen in the desktop app: it signs you in as a local user, so the Dashboard opens straight away and logging in no longer fails with \"fetch failed\". Restart the app after updating."
 }
