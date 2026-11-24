@@ -1,7 +1,7 @@
 {
-  "version": "0.3.33",
+  "version": "0.3.34",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.33.zip",
-  "sha256": "247b791d1255be4afc728cee8f1228384dea5441cc84d59c851e034f9f477235",
-  "notes": "Prep deck: new Weakest sites slide (worst attack and defence sites across every map), new Utility heat map slide for each map's defence, and the Operator bans slide now comes before the flashcards on every map."
+  "zip": "r6-scout-update-0.3.34.zip",
+  "sha256": "807faec9a161b3e2ae8023eeb6770726eeeae65ee65df21c3016ffcaaa28f019",
+  "notes": "Prep deck: new Death heat map (defence), Camera habits (defence) and Drone habits (attack) slides, operator win rate in the overview, and a Recent form block in the Veto profile. App: new Find rounds filter (operators they ran, operators they didn't, exact line-up). Restart the app after updating."
 }
