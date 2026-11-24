@@ -1,8 +1,8 @@
 {
-  "version": "0.3.42",
+  "version": "0.3.43",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.42.zip",
-  "sha256": "ac66ab4505dbf02d69083721f8e95b6bf018d69beac63735b32e04cf13c0bfb5",
-  "notes": "Security: your stored data (rounds, playlists, settings) is now encrypted on disk with a key protected by your Windows account; a damaged data file is no longer overwritten and shows a warning instead; other websites can no longer talk to the app or R6 Prep on your computer; the app window only shows this app; and from now on updates must be signed by the publisher or the app refuses them. Restart the app after updating.",
-  "signature": "6wD5R5WGceGP9VfmnZhZ/I57EtYQRJI7AjwqBQByAGA9sTv0so2F26tIqbzmVF5ErXgdFGrnbflsR5AaFzo6BQ=="
+  "zip": "r6-scout-update-0.3.43.zip",
+  "sha256": "bb3097119c03b8f703398bfa36a341e0a1f84ef9f083bc59aca4639d70fcf45d",
+  "notes": "New look: a calmer graphite and amber theme across R6 Scout, Players and Playlists, with plain sentence-case labels, a simple tab underline and tighter corners. Nothing else changed. Restart the app after updating.",
+  "signature": "Wp0NUSLc7zzb4rRrNylWBruurs9mI56XUctswL4qsp16oGZh1z4FKSMHYguFJT1+fLonLn7hFkBYrJ0erSPkDw=="
 }
