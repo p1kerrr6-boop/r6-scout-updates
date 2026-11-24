@@ -1,7 +1,7 @@
 {
-  "version": "0.3.38",
+  "version": "0.3.39",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.38.zip",
-  "sha256": "c435a6dd2863bc68465e43c653da45d3ba2e2d3a4593a1d95d8a201da231a9e4",
-  "notes": "Players and Targets: the guessed roles (anchor, roamer, entry, lurk) are removed from the app and the prep deck slides; spots, operators and first-death maps stay. Restart the app after updating."
+  "zip": "r6-scout-update-0.3.39.zip",
+  "sha256": "9ea40c4d86af7351c0efe9993bcf533880dce7c15a44f27328f1795196094b6e",
+  "notes": "Bug fixes after a full check of the app: the prep deck no longer crashes on some maps in the Players and Targets slides, \"died at all\" can no longer exceed the rounds played, the Targets table fits on a phone screen, Enter creates a playlist from the + menu, and a bad request no longer shows a server error. Restart the app after updating."
 }
