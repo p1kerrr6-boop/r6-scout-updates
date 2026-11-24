@@ -1,7 +1,7 @@
 {
-  "version": "0.3.34",
+  "version": "0.3.35",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.34.zip",
-  "sha256": "807faec9a161b3e2ae8023eeb6770726eeeae65ee65df21c3016ffcaaa28f019",
-  "notes": "Prep deck: new Death heat map (defence), Camera habits (defence) and Drone habits (attack) slides, operator win rate in the overview, and a Recent form block in the Veto profile. App: new Find rounds filter (operators they ran, operators they didn't, exact line-up). Restart the app after updating."
+  "zip": "r6-scout-update-0.3.35.zip",
+  "sha256": "b8a6705c73a8a5aa5262f758ffa4e08ab40e9692cda163c5d2a7005c6608f126",
+  "notes": "New Playlists tab: save rounds into named lists from any round card (+) or from a Find rounds search, add notes, and build a prep deck for one team from a playlist. Restart the app after updating."
 }
