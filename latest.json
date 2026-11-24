@@ -1,7 +1,7 @@
 {
-  "version": "0.3.30",
+  "version": "0.3.31",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.30.zip",
-  "sha256": "aa56f0b0d0e351004d9d31bd587985b8513e034fe29990ef5dafaef2359a3ce3",
-  "notes": "Prep deck attack slides: new pace panel (Fast / Mid / Slow by when the first kill came) on the attack overview, pace chips on best sites, Fast/Mid/Slow site table with a total row, donut and chart moved into one panel; round slides get a Pace line and the Rush / Fast pacing / Slow pacing tags are ticked automatically."
+  "zip": "r6-scout-update-0.3.31.zip",
+  "sha256": "03116e3edefec5714b9d127a53e037a65a59c619e6b8042a0f148767a7ad1ad0",
+  "notes": "Prep deck: new Opening kills and Opening deaths slides after each attack and defence overview (win rate with and without the opening kill, who gets it or dies first, median time, by-site table)."
 }
