@@ -1,8 +1,8 @@
 {
-  "version": "0.3.45",
+  "version": "0.3.46",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.45.zip",
-  "sha256": "42adff361f6822cbfb78dbda0165f5f8cd1207d412b57bdc495e033812774c0b",
-  "notes": "VOD lookup fix: VODs found on Liquipedia were being thrown away when the opponent's name was spelled differently (the replay says \"Geekay\", Liquipedia says \"Geekay Esports\"). Names are now compared the way R6 Prep compares them, so those VODs are filled in. Restart the app after updating.",
-  "signature": "MopsTIcinGnS00+9galcE5kWywj4v94qf2JYqJsv8jjtGqJQwHA382D1lb6363iQ6QFph4/n9RNRiyFbEi29Dg=="
+  "zip": "r6-scout-update-0.3.46.zip",
+  "sha256": "1cf6d0c2427ce5f3433fd44f2359eacf7bb1e85696e2f975c12f331650b3580d",
+  "notes": "The .rec drop box at the top of R6 Scout is gone. Add replays with Batch export: choose the input folder, tick Add rounds to my scout data, then Process. Restart the app after updating.",
+  "signature": "5C4ZggMR8InkFnbUTabNTEbngMqYb+S2Pw8AeoZtWKEBJFgpJWYr/aXvN3EeLjoES91pve71nP58dJMHxj2cDg=="
 }
