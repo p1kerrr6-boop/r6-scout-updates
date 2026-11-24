@@ -1,7 +1,7 @@
 {
-  "version": "0.3.32",
+  "version": "0.3.33",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.32.zip",
-  "sha256": "3591f66a258c2af0e002f3d7347e5a8ea2249c2bdf2d8bd4b786142209bdb6a4",
-  "notes": "Prep deck: new Map pool and Veto profile slides before the first map, filled from Liquipedia through R6 Prep (not from the replays), with a notice slide if Liquipedia has nothing. Team names match loosely (Geekay finds Geekay Esports). Consulate removed: nine maps. R6 Prep now opens without sign-in and starts the Liquipedia lookup in the background when the app opens. Restart the app after updating."
+  "zip": "r6-scout-update-0.3.33.zip",
+  "sha256": "247b791d1255be4afc728cee8f1228384dea5441cc84d59c851e034f9f477235",
+  "notes": "Prep deck: new Weakest sites slide (worst attack and defence sites across every map), new Utility heat map slide for each map's defence, and the Operator bans slide now comes before the flashcards on every map."
 }
