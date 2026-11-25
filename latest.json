@@ -1,8 +1,8 @@
 {
-  "version": "0.3.57",
+  "version": "0.3.58",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.57.zip",
-  "sha256": "0e09d56c843d24a5dfa2ae7c6e09b264c86d22d2d3d8cc5f73a7c2dbeae5d68f",
-  "notes": "R6 Scout is now R6 Prep: the logo and first tab say R6 Prep, and the old Prep tab is now called Data. The opening kills slide in the prep deck now lists every operator that got an opening kill, and labels its median time as the round clock. Restart the app after updating.",
-  "signature": "ZYeGXXUOxAzv0m3zZGQMOd2trGNEphw2konnB17DHeEmJPqiQ4Z5cRt4uU4hX1ZeUe8dDxuMlNJyXBIxdgJGCg=="
+  "zip": "r6-scout-update-0.3.58.zip",
+  "sha256": "6f41c65e6fdecc809008bbef37211624065c8c2c38bdfd19081cd5d0211e7d4b",
+  "notes": "The old Prep tab is now called Team Data, and the yellow warning bar that showed when you looked up a team is hidden. Restart the app after updating.",
+  "signature": "i7k6nUFKss0v4yhnOiZWqhovaMLJXqdhXL22hOF5fURVdqgTw7ZC0spO+1WTRkpnsd8MOK90KOfKrSCT0VOSBg=="
 }
