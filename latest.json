@@ -1,8 +1,8 @@
 {
-  "version": "0.3.61",
+  "version": "0.3.62",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.61.zip",
-  "sha256": "1a3293e3d31b2b05e647306c0df2d1530d823a8792470d02025b4167ff7de29d",
-  "notes": "Team Data has a new lighter, cleaner look across every tab: off-white pages, white cards, thin lines and no glow. The operator bans heatmap and Side Performance charts are restyled to match, and Copy PNG exports work on the new look. Restart the app after updating.",
-  "signature": "z11i1DjERosmiaVPRKHpVC9mZ5Hf+qRStzZC3BPyp2fWkSU5bp3uM+4z5xRmsAuyzBVvry19/eNNFpkkg1wDBQ=="
+  "zip": "r6-scout-update-0.3.62.zip",
+  "sha256": "1554e11444d494a25353f473aafd8474e3b581b79b1d7621a4f4e7c70cca37c2",
+  "notes": "The whole app now has the lighter look: off-white pages, white cards and dark text, replacing the graphite and amber. The Windows title bar matches. The logo and name at the top left of Team Data are removed. Restart the app after updating.",
+  "signature": "F3zj/L3N4AIb6YZOsRkigva0pLmXCwJtG8aEGhKC6TuhW/OtBQHgZoThZFe9m4byWe/mS/3hGklqt9ukCideCQ=="
 }
