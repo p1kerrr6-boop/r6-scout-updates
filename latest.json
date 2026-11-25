@@ -1,8 +1,8 @@
 {
-  "version": "0.3.56",
+  "version": "0.3.57",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.56.zip",
-  "sha256": "3dd27e1a36a88e8fac6cf2fa9b6bdcac42fc392dc4e9fcf6045386ab3576b4a8",
-  "notes": "Fixes the prep deck failing with \"Cannot find module pptxgenjs\": the update now carries its own copy of the library. Restart the app after updating, then build the deck again.",
-  "signature": "xL6VF5/0wRnVrrVGjU4ahNhsMf/vqYEul2K89DlR4g3Ql5TwdB/LkeT+ygQOsYlR7VMyXo9DVd5/YAHA2L1fDA=="
+  "zip": "r6-scout-update-0.3.57.zip",
+  "sha256": "0e09d56c843d24a5dfa2ae7c6e09b264c86d22d2d3d8cc5f73a7c2dbeae5d68f",
+  "notes": "R6 Scout is now R6 Prep: the logo and first tab say R6 Prep, and the old Prep tab is now called Data. The opening kills slide in the prep deck now lists every operator that got an opening kill, and labels its median time as the round clock. Restart the app after updating.",
+  "signature": "ZYeGXXUOxAzv0m3zZGQMOd2trGNEphw2konnB17DHeEmJPqiQ4Z5cRt4uU4hX1ZeUe8dDxuMlNJyXBIxdgJGCg=="
 }
