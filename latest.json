@@ -1,8 +1,8 @@
 {
-  "version": "0.3.52",
+  "version": "0.3.53",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.52.zip",
-  "sha256": "721c0e9e3302bca707b31e7682ea30d9b81ff4e72adf334951fa2c5a72a77701",
-  "notes": "R6 Prep: every section on the External Dashboard now has a Copy PNG button that puts a picture of just that section on your clipboard, ready to paste into PowerPoint or Google Slides. A Dark / Light switch in the header chooses the look of the pictures. The two ban tables on the Dashboard are now called Operator Bans per Map and Operator Bans by Map. Restart the app after updating.",
-  "signature": "HmpgI/VL7XQiLtQcNOfChi/o5RdeDMRXW1zKaJmaQyxdKh83DI3i5suZxRFtcbJ8/KukFoPUqURD3zhF9ireCQ=="
+  "zip": "r6-scout-update-0.3.53.zip",
+  "sha256": "2b561fa942be334d0e56c162fdd58ea0d69cad71b639419f1c021da3f95df351",
+  "notes": "R6 Prep External Dashboard: the Copy PNG button now only appears when you hover over a section, and it replaces the old Copy buttons, so each section has just one. Restart the app after updating.",
+  "signature": "rmdb52inXrnWxPsSH4kQO/vTeKcvidbzRMZrk6o30ERTOYVn/MYvt5Gx+D5PZ4Lua3I6DR9Va54fKBYWzcDMCQ=="
 }
