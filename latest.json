@@ -1,8 +1,8 @@
 {
-  "version": "0.3.67",
+  "version": "0.3.68",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.67.zip",
-  "sha256": "c9d065dd7361e04387698aaa8f46be97e90888ffab51ba132dc1cf343e83b41f",
-  "notes": "Team Data: hover tooltips are no longer cut off at the edge of charts, and Ban Combinations > Matching games now shows a VOD link (found automatically from Liquipedia, same as the other VOD links). Restart the app after updating.",
-  "signature": "uHdey2gjSH3+aWA5uQXnX6jKkcXBLZXwkD3FZs8AHmWpcwACsRuwB5irDX/2jh6/lr7veC4u8KAQciE8qKvgDg=="
+  "zip": "r6-scout-update-0.3.68.zip",
+  "sha256": "664aa82e569ab7cf25a0957219f6a9ff9493cabdece50b3ee7b24cec45688b6f",
+  "notes": "Team Data: Bombsite Stats has been removed (the tab, its page and its background importer). Restart the app after updating.",
+  "signature": "ufDJIAPwFwoTHxQswLA0558aoN9SUC7/6mQXGP+IapsJs34tuo24ns846cvd+Jk6FAWC1zlba/u+FPbHb+WOAQ=="
 }
