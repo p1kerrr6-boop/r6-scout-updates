@@ -1,8 +1,8 @@
 {
-  "version": "0.3.64",
+  "version": "0.3.65",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.64.zip",
-  "sha256": "a99e50973eec2197d09743cc9e5b4ae02644a5cb4f197727d72a1353baf930a5",
-  "notes": "Round Viewer playback is now smooth: players glide between their recorded positions instead of jumping, and the trails follow them. Restart the app after updating.",
-  "signature": "IGZ86m/pESI0GzjplJhwOFVphYuGOXwnNPeXArBFgUPOnQH0aJRyBm1EDaKFUrVGNk1EY1Il5AHHP8XoCSZyDg=="
+  "zip": "r6-scout-update-0.3.65.zip",
+  "sha256": "0d8130df182ad73b8213c5e5456feb5953a4d829809c3c9469ea3078a8f9696e",
+  "notes": "Round Viewer drones now follow the round clock: each drone shows as your drone icon flying along its path, with a red cross where it ended. The drone, its path and the cross fade in and out instead of staying all round. Restart the app after updating.",
+  "signature": "UYLbs73xaSLwXWhnIAdIdyJCj3RL9nNobcEKRyHQryPqtxAMbNyJXlmVtedz6cwy9tHQL4G+o+yaSIpQsFNPBQ=="
 }
