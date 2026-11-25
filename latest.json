@@ -1,8 +1,8 @@
 {
-  "version": "0.3.62",
+  "version": "0.3.63",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.62.zip",
-  "sha256": "1554e11444d494a25353f473aafd8474e3b581b79b1d7621a4f4e7c70cca37c2",
-  "notes": "The whole app now has the lighter look: off-white pages, white cards and dark text, replacing the graphite and amber. The Windows title bar matches. The logo and name at the top left of Team Data are removed. Restart the app after updating.",
-  "signature": "F3zj/L3N4AIb6YZOsRkigva0pLmXCwJtG8aEGhKC6TuhW/OtBQHgZoThZFe9m4byWe/mS/3hGklqt9ukCideCQ=="
+  "zip": "r6-scout-update-0.3.63.zip",
+  "sha256": "b24c4316ed5c870131873da0cd73a7b3e4b0dae7c437fa9f6ed7079ec4eafd60",
+  "notes": "The remaining R6 Scout names are now R6 Prep: update messages, the Help menu, error messages and the batch export. Your Documents folder R6 Scout is renamed to R6 Prep the first time this starts, with your files moved across. Restart the app after updating.",
+  "signature": "qoZyCsPvLCSMPAfyvnKjge9Mf20maYkyjZ9NY6y5a9lCMljdPzKgSZWHi8uDwOhPdszPWqCOQ5aQHkFoXQvNDg=="
 }
