@@ -1,8 +1,8 @@
 {
-  "version": "0.3.55",
+  "version": "0.3.56",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.55.zip",
-  "sha256": "893d655de9da222c3298ee7e91a426a050d9142fac9ba03caf716d92250386c9",
-  "notes": "Round Viewer: the kill feed now lines up in clean columns (time, killer, victim) with the victim greyed and struck through and a HS tag for headshots. Restart the app after updating.",
-  "signature": "iBCUrYM+wz5uyV2U8Oq8ultqAvMrVmW0JNVrklLi4or8CxC0M5oAoXSPeewta8FlbudRP21bSEwBJz8ikmfDDQ=="
+  "zip": "r6-scout-update-0.3.56.zip",
+  "sha256": "3dd27e1a36a88e8fac6cf2fa9b6bdcac42fc392dc4e9fcf6045386ab3576b4a8",
+  "notes": "Fixes the prep deck failing with \"Cannot find module pptxgenjs\": the update now carries its own copy of the library. Restart the app after updating, then build the deck again.",
+  "signature": "xL6VF5/0wRnVrrVGjU4ahNhsMf/vqYEul2K89DlR4g3Ql5TwdB/LkeT+ygQOsYlR7VMyXo9DVd5/YAHA2L1fDA=="
 }
