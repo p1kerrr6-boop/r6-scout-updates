@@ -1,8 +1,8 @@
 {
-  "version": "0.3.58",
+  "version": "0.3.59",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.58.zip",
-  "sha256": "6f41c65e6fdecc809008bbef37211624065c8c2c38bdfd19081cd5d0211e7d4b",
-  "notes": "The old Prep tab is now called Team Data, and the yellow warning bar that showed when you looked up a team is hidden. Restart the app after updating.",
-  "signature": "i7k6nUFKss0v4yhnOiZWqhovaMLJXqdhXL22hOF5fURVdqgTw7ZC0spO+1WTRkpnsd8MOK90KOfKrSCT0VOSBg=="
+  "zip": "r6-scout-update-0.3.59.zip",
+  "sha256": "5974b17ba1ff009d4b3cdd2069a5c8991c34292e6121839e388f4604e8b186b6",
+  "notes": "Team Data: the team logo is now at the top of the page, the operator bans table is a colour heatmap (blue for rarely banned up to amber for most banned), and Side Performance is now a radar chart with a ring card for each map. Restart the app after updating.",
+  "signature": "bHBkPpQt2ptHC4k9r1xjCxAF/Fjo5ZH0lePKo4XnxeSvio4+gREqWyOxfb3KAXk8825humsJ5m1nvG3V3aWICA=="
 }
