@@ -1,8 +1,8 @@
 {
-  "version": "0.3.63",
+  "version": "0.3.64",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.63.zip",
-  "sha256": "b24c4316ed5c870131873da0cd73a7b3e4b0dae7c437fa9f6ed7079ec4eafd60",
-  "notes": "The remaining R6 Scout names are now R6 Prep: update messages, the Help menu, error messages and the batch export. Your Documents folder R6 Scout is renamed to R6 Prep the first time this starts, with your files moved across. Restart the app after updating.",
-  "signature": "qoZyCsPvLCSMPAfyvnKjge9Mf20maYkyjZ9NY6y5a9lCMljdPzKgSZWHi8uDwOhPdszPWqCOQ5aQHkFoXQvNDg=="
+  "zip": "r6-scout-update-0.3.64.zip",
+  "sha256": "a99e50973eec2197d09743cc9e5b4ae02644a5cb4f197727d72a1353baf930a5",
+  "notes": "Round Viewer playback is now smooth: players glide between their recorded positions instead of jumping, and the trails follow them. Restart the app after updating.",
+  "signature": "IGZ86m/pESI0GzjplJhwOFVphYuGOXwnNPeXArBFgUPOnQH0aJRyBm1EDaKFUrVGNk1EY1Il5AHHP8XoCSZyDg=="
 }
