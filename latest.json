@@ -1,8 +1,8 @@
 {
-  "version": "0.3.68",
+  "version": "0.3.69",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.68.zip",
-  "sha256": "664aa82e569ab7cf25a0957219f6a9ff9493cabdece50b3ee7b24cec45688b6f",
-  "notes": "Team Data: Bombsite Stats has been removed (the tab, its page and its background importer). Restart the app after updating.",
-  "signature": "ufDJIAPwFwoTHxQswLA0558aoN9SUC7/6mQXGP+IapsJs34tuo24ns846cvd+Jk6FAWC1zlba/u+FPbHb+WOAQ=="
+  "zip": "r6-scout-update-0.3.69.zip",
+  "sha256": "fa51fecf04343aba6c2e59b67a32d3790cabce7a5c735dad541351411e09c314",
+  "notes": "Team Data: Map Data and Operator Ban Data now only show T1 (top-flight) and T2 (challenger) teams, and only the 9 current maps are used everywhere (Consulate and Skyscraper removed). Restart the app after updating.",
+  "signature": "nqkfSfLD0vI5UhUHVmUQQKbctnYFRUUVTx91UshcWv/6ty9MHCmYH0Ngj17/XXAWMZRNe6kFJ5YvaJD3KfxMAg=="
 }
