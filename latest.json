@@ -1,8 +1,8 @@
 {
-  "version": "0.3.60",
+  "version": "0.3.61",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.60.zip",
-  "sha256": "328dc92f1f7b87d72266818c6c2d30dcd38dbe0635494ed93e58b94594eb72aa",
-  "notes": "The window's blue title bar is replaced by a dark header that matches the theme (Windows). The operator bans heatmap now uses five clear colour bands from rare to often. The Dashboard team box says Select a team. Restart the app after updating.",
-  "signature": "VmYBOvoJYEbqBq4uspBLg5AzMXfexqLI9W9qmEh8tG4zcoKEWWFCGKkUkVXrHSMeT+U9dja5BQ+p9+NVVsBNAw=="
+  "zip": "r6-scout-update-0.3.61.zip",
+  "sha256": "1a3293e3d31b2b05e647306c0df2d1530d823a8792470d02025b4167ff7de29d",
+  "notes": "Team Data has a new lighter, cleaner look across every tab: off-white pages, white cards, thin lines and no glow. The operator bans heatmap and Side Performance charts are restyled to match, and Copy PNG exports work on the new look. Restart the app after updating.",
+  "signature": "z11i1DjERosmiaVPRKHpVC9mZ5Hf+qRStzZC3BPyp2fWkSU5bp3uM+4z5xRmsAuyzBVvry19/eNNFpkkg1wDBQ=="
 }
