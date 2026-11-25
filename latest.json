@@ -1,8 +1,8 @@
 {
-  "version": "0.3.70",
+  "version": "0.3.71",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.70.zip",
-  "sha256": "c0869786702c0d3299993e2ce7385422efc82086550d87029b362199fa31eb4a",
-  "notes": "Team Data: the event dropdown now lists the Major's stages separately (Phase 1 - GSL Stage, Phase 2 - Swiss Stage, Phase 3 - Playoffs) and loads the Swiss Stage matches that were missing. The whole-Major entry still works. New entries can take a minute or two to appear after the app starts. Restart the app after updating.",
-  "signature": "gbfr7Q1rwNMSqtY58SxgrU2xuJjh6GuiR4XhTBmwrHLogUEmv/+ixeRTb0KLk3OmTcXG3SX+hMMNHfxVGiHTCQ=="
+  "zip": "r6-scout-update-0.3.71.zip",
+  "sha256": "4bdd760d41f02b44c2279a5194bea062a9848a0a52d0becda7608eb4545b6d1e",
+  "notes": "Round Viewer: playback is now smooth. The map no longer repaints every frame, the dots glide between recorded positions, trail tails shrink smoothly, and the first press of Play no longer stalls. Restart the app after updating.",
+  "signature": "pZ71kWJtCZI86uVYzLF7U5THLKJm/GMn18D3OiwU/Kwulu6+2CrW7ydEyWjjWZFl8sbtDFSdpxqLbHfyS0LRCw=="
 }
