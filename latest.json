@@ -1,8 +1,8 @@
 {
-  "version": "0.3.65",
+  "version": "0.3.66",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.65.zip",
-  "sha256": "0d8130df182ad73b8213c5e5456feb5953a4d829809c3c9469ea3078a8f9696e",
-  "notes": "Round Viewer drones now follow the round clock: each drone shows as your drone icon flying along its path, with a red cross where it ended. The drone, its path and the cross fade in and out instead of staying all round. Restart the app after updating.",
-  "signature": "UYLbs73xaSLwXWhnIAdIdyJCj3RL9nNobcEKRyHQryPqtxAMbNyJXlmVtedz6cwy9tHQL4G+o+yaSIpQsFNPBQ=="
+  "zip": "r6-scout-update-0.3.66.zip",
+  "sha256": "3d7cfdf2942404ff5a85c8a344dcdc2e73dc0adfafbe9b694328eb44f5c0d0fa",
+  "notes": "Team Data: Side Performance now looks the same everywhere (rings and radar), attack is blue and defence is orange across the whole app, and the External Dashboard has a new Scouting report and Map pool quadrant added above your existing charts. Fixed the Solid Snake icon showing a ? in Ban Combinations. Restart the app after updating.",
+  "signature": "uCAdFQbzuv6Ad1aEk+rMXwkoXhmR9V1/H0tcTCeyfPc7Oal8qHByLEKYxrV1b9KyLAYO9EAK0+rWzgKHdls0DQ=="
 }
