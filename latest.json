@@ -1,8 +1,8 @@
 {
-  "version": "0.3.69",
+  "version": "0.3.70",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.69.zip",
-  "sha256": "fa51fecf04343aba6c2e59b67a32d3790cabce7a5c735dad541351411e09c314",
-  "notes": "Team Data: Map Data and Operator Ban Data now only show T1 (top-flight) and T2 (challenger) teams, and only the 9 current maps are used everywhere (Consulate and Skyscraper removed). Restart the app after updating.",
-  "signature": "nqkfSfLD0vI5UhUHVmUQQKbctnYFRUUVTx91UshcWv/6ty9MHCmYH0Ngj17/XXAWMZRNe6kFJ5YvaJD3KfxMAg=="
+  "zip": "r6-scout-update-0.3.70.zip",
+  "sha256": "c0869786702c0d3299993e2ce7385422efc82086550d87029b362199fa31eb4a",
+  "notes": "Team Data: the event dropdown now lists the Major's stages separately (Phase 1 - GSL Stage, Phase 2 - Swiss Stage, Phase 3 - Playoffs) and loads the Swiss Stage matches that were missing. The whole-Major entry still works. New entries can take a minute or two to appear after the app starts. Restart the app after updating.",
+  "signature": "gbfr7Q1rwNMSqtY58SxgrU2xuJjh6GuiR4XhTBmwrHLogUEmv/+ixeRTb0KLk3OmTcXG3SX+hMMNHfxVGiHTCQ=="
 }
