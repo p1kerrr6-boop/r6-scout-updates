@@ -1,8 +1,8 @@
 {
-  "version": "0.3.54",
+  "version": "0.3.55",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.54.zip",
-  "sha256": "e8aec3a4064440cda11ab6a35026a95f8be8e2912e92fd0295ff1ab3181596ed",
-  "notes": "New Round Viewer tab (after Player Positions): pick a game and round, replay it on the map with floor buttons, trails and drones, play/scrub with kill ticks, a roster with alive and dead players, and a kill feed. Rounds without position tracks show a message instead. Restart the app after updating.",
-  "signature": "Vc/Sp52DvulgDc9h7RPJf12SFnjTKfk5A2WRiQvdCI0rtN1vqjpxZsdTxMy5nOp6yr9jvjb0B07TALLvDOPkBQ=="
+  "zip": "r6-scout-update-0.3.55.zip",
+  "sha256": "893d655de9da222c3298ee7e91a426a050d9142fac9ba03caf716d92250386c9",
+  "notes": "Round Viewer: the kill feed now lines up in clean columns (time, killer, victim) with the victim greyed and struck through and a HS tag for headshots. Restart the app after updating.",
+  "signature": "iBCUrYM+wz5uyV2U8Oq8ultqAvMrVmW0JNVrklLi4or8CxC0M5oAoXSPeewta8FlbudRP21bSEwBJz8ikmfDDQ=="
 }
