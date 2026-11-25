@@ -1,8 +1,8 @@
 {
-  "version": "0.3.47",
+  "version": "0.3.48",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.47.zip",
-  "sha256": "ff2b287d455cdbe4036c392c93ed700eca0d864f2d8bd4cb6d34f0fb1b138b4c",
-  "notes": "R6 Prep now uses the same graphite and amber look as R6 Scout: the blue accent is gone and the dark greys match. Attack and defence side colours are unchanged. Restart the app after updating.",
-  "signature": "Kzh7qUrZcSz9/gWFmFQXE1XQFErlYZRd0sYj0yK5lSTnCm3CXy3cxJt2vNfHZLuTqVSuJ/y1fZfrOeCFyjF7DQ=="
+  "zip": "r6-scout-update-0.3.48.zip",
+  "sha256": "38751db2b57869128219178c3635698f752ac9ef7f8decda086680500d5550aa",
+  "notes": "Player Positions is now laid out by site: one row per site with a floor map and each player's operators, main spot and how often they are there. Every row has a floor switch (the small number shows how many players have a spot on that floor) and per-player floor chips, so you can see who roams to another floor. Choosing a site shows just that row. Restart the app after updating.",
+  "signature": "URgbN0rl0B7gFLv99oMxQsny7DYP6QOY5FCBrI6OHVuNKJaeMLm76iRVBvX3tB3YRdwe75gyBpgrSbY8Qq1YBg=="
 }
