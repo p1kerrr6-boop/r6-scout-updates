@@ -1,8 +1,8 @@
 {
-  "version": "0.3.51",
+  "version": "0.3.52",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.51.zip",
-  "sha256": "d67f6328059e47052c9adc4edef43bda14120b52b895732b9bd1981ab7cf2b10",
-  "notes": "R6 Prep dashboard: new Bans by Map grid under the stats row. Operators run down the side and maps across the top, each cell is how many times that operator was banned on that map (darker = more often), with a switch between their bans and the bans against them. It follows the same team, event and date filters. Restart the app after updating.",
-  "signature": "kx3Ni41ujqUYUEqroApXblGKdHmZ8nFV2DN6m+e+7YzzRMLvINQR5pqv60iMQy1JrSIuI5/JzdTp7LDJ9httBQ=="
+  "zip": "r6-scout-update-0.3.52.zip",
+  "sha256": "721c0e9e3302bca707b31e7682ea30d9b81ff4e72adf334951fa2c5a72a77701",
+  "notes": "R6 Prep: every section on the External Dashboard now has a Copy PNG button that puts a picture of just that section on your clipboard, ready to paste into PowerPoint or Google Slides. A Dark / Light switch in the header chooses the look of the pictures. The two ban tables on the Dashboard are now called Operator Bans per Map and Operator Bans by Map. Restart the app after updating.",
+  "signature": "HmpgI/VL7XQiLtQcNOfChi/o5RdeDMRXW1zKaJmaQyxdKh83DI3i5suZxRFtcbJ8/KukFoPUqURD3zhF9ireCQ=="
 }
