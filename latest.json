@@ -1,8 +1,8 @@
 {
-  "version": "0.3.49",
+  "version": "0.3.50",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.49.zip",
-  "sha256": "520490e25eb238db1ecdf3282d22df7c6dae6d0463456cf65bd9acd5282578b3",
-  "notes": "Targets is much more useful. The table now shows how often the round is won after each player dies first or gets the opening kill, their average first-death time, and counts like 3/4 next to every percentage, sorted easiest-to-target first, with a team summary line. Three charts were added in the app and the prep deck: a timeline of opening deaths and kills, a line/area chart of opening deaths over time, and win-rate bars. Prep decks now have a Targets slide right under each site's Players slide, plus a charts slide per map and side. Restart the app after updating.",
-  "signature": "XqYg8V6HBqsu7GG60zc5ClicLeBbJNpwqTuQzyE7fLwpiuW24iRPQKR4pC9PY0FvTFMqRKXnA10Z9NR7AIsaAg=="
+  "zip": "r6-scout-update-0.3.50.zip",
+  "sha256": "5754d7477da6c8679dbdb2fb8dbaf7e25a0e164596cbafa046e75616dd3d2686",
+  "notes": "Player Positions: the second spot of each player is now a hollow ring with the same number as the player, with a legend under every map (filled circle = main spot, ring = second spot). Restart the app after updating.",
+  "signature": "IXimLeZYVlN2w7wi0COFGVkpt6DGf1eVduB7XfqApnBNAbPOxAp/6JYvCvgns9kmg/uRCoYT3+IhJ+wo6r3kBg=="
 }
