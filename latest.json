@@ -1,8 +1,8 @@
 {
-  "version": "0.3.66",
+  "version": "0.3.67",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.66.zip",
-  "sha256": "3d7cfdf2942404ff5a85c8a344dcdc2e73dc0adfafbe9b694328eb44f5c0d0fa",
-  "notes": "Team Data: Side Performance now looks the same everywhere (rings and radar), attack is blue and defence is orange across the whole app, and the External Dashboard has a new Scouting report and Map pool quadrant added above your existing charts. Fixed the Solid Snake icon showing a ? in Ban Combinations. Restart the app after updating.",
-  "signature": "uCAdFQbzuv6Ad1aEk+rMXwkoXhmR9V1/H0tcTCeyfPc7Oal8qHByLEKYxrV1b9KyLAYO9EAK0+rWzgKHdls0DQ=="
+  "zip": "r6-scout-update-0.3.67.zip",
+  "sha256": "c9d065dd7361e04387698aaa8f46be97e90888ffab51ba132dc1cf343e83b41f",
+  "notes": "Team Data: hover tooltips are no longer cut off at the edge of charts, and Ban Combinations > Matching games now shows a VOD link (found automatically from Liquipedia, same as the other VOD links). Restart the app after updating.",
+  "signature": "uHdey2gjSH3+aWA5uQXnX6jKkcXBLZXwkD3FZs8AHmWpcwACsRuwB5irDX/2jh6/lr7veC4u8KAQciE8qKvgDg=="
 }
