@@ -1,8 +1,8 @@
 {
-  "version": "0.3.53",
+  "version": "0.3.54",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.53.zip",
-  "sha256": "2b561fa942be334d0e56c162fdd58ea0d69cad71b639419f1c021da3f95df351",
-  "notes": "R6 Prep External Dashboard: the Copy PNG button now only appears when you hover over a section, and it replaces the old Copy buttons, so each section has just one. Restart the app after updating.",
-  "signature": "rmdb52inXrnWxPsSH4kQO/vTeKcvidbzRMZrk6o30ERTOYVn/MYvt5Gx+D5PZ4Lua3I6DR9Va54fKBYWzcDMCQ=="
+  "zip": "r6-scout-update-0.3.54.zip",
+  "sha256": "e8aec3a4064440cda11ab6a35026a95f8be8e2912e92fd0295ff1ab3181596ed",
+  "notes": "New Round Viewer tab (after Player Positions): pick a game and round, replay it on the map with floor buttons, trails and drones, play/scrub with kill ticks, a roster with alive and dead players, and a kill feed. Rounds without position tracks show a message instead. Restart the app after updating.",
+  "signature": "Vc/Sp52DvulgDc9h7RPJf12SFnjTKfk5A2WRiQvdCI0rtN1vqjpxZsdTxMy5nOp6yr9jvjb0B07TALLvDOPkBQ=="
 }
