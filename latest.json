@@ -1,8 +1,8 @@
 {
-  "version": "0.3.59",
+  "version": "0.3.60",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.59.zip",
-  "sha256": "5974b17ba1ff009d4b3cdd2069a5c8991c34292e6121839e388f4604e8b186b6",
-  "notes": "Team Data: the team logo is now at the top of the page, the operator bans table is a colour heatmap (blue for rarely banned up to amber for most banned), and Side Performance is now a radar chart with a ring card for each map. Restart the app after updating.",
-  "signature": "bHBkPpQt2ptHC4k9r1xjCxAF/Fjo5ZH0lePKo4XnxeSvio4+gREqWyOxfb3KAXk8825humsJ5m1nvG3V3aWICA=="
+  "zip": "r6-scout-update-0.3.60.zip",
+  "sha256": "328dc92f1f7b87d72266818c6c2d30dcd38dbe0635494ed93e58b94594eb72aa",
+  "notes": "The window's blue title bar is replaced by a dark header that matches the theme (Windows). The operator bans heatmap now uses five clear colour bands from rare to often. The Dashboard team box says Select a team. Restart the app after updating.",
+  "signature": "VmYBOvoJYEbqBq4uspBLg5AzMXfexqLI9W9qmEh8tG4zcoKEWWFCGKkUkVXrHSMeT+U9dja5BQ+p9+NVVsBNAw=="
 }
