@@ -1,8 +1,8 @@
 {
-  "version": "0.3.71",
+  "version": "0.3.72",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.71.zip",
-  "sha256": "4bdd760d41f02b44c2279a5194bea062a9848a0a52d0becda7608eb4545b6d1e",
-  "notes": "Round Viewer: playback is now smooth. The map no longer repaints every frame, the dots glide between recorded positions, trail tails shrink smoothly, and the first press of Play no longer stalls. Restart the app after updating.",
-  "signature": "pZ71kWJtCZI86uVYzLF7U5THLKJm/GMn18D3OiwU/Kwulu6+2CrW7ydEyWjjWZFl8sbtDFSdpxqLbHfyS0LRCw=="
+  "zip": "r6-scout-update-0.3.72.zip",
+  "sha256": "c84bf53225134e18bbcd5bedcd71b5e0df4b398a1a53220ec6301175a6ece891",
+  "notes": "Round Viewer: overlay several rounds on one map, save clips, play a whole playlist (play all, next/previous, auto-advance, loop), Smart play that speeds through quiet stretches and slows for kills, storyboard of key moments, copy or save the map as an image, a shortcuts card (press ?), and pinned notes on the map. Notes ticked for the deck appear as a Coach notes slide. Restart the app after updating.",
+  "signature": "E6hzT9vysSu39/qozJF3deSwsfTSfUivzR8VC3hO66tBoNO2xQh84rd+wEtTJ05KC37lqrXXhkGTCol6k7C0Cw=="
 }
