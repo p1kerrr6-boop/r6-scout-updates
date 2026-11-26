@@ -2,7 +2,7 @@
   "version": "0.3.74",
   "minBase": "0.3.0",
   "zip": "r6-scout-update-0.3.74.zip",
-  "sha256": "x",
+  "sha256": "e7a4622e555fe5679121ca20ac1ce71e816da7139a5749fa2f744b2755f435b3",
   "notes": "Round Viewer: the Players list now shows each player's operator and their kills so far (with headshots), who killed them and when, and each team's alive and kill count. A Number / Dots switch changes how kills are shown and is remembered. Restart the app after updating.",
-  "signature": "WQvvJvMapZsBp6bN+wGtPssm52dNtIBk7QfN7VOa6xEqi0/IgYjynS6TB0PQ1brtT5NY5SrDRbkFFScRactwCw=="
+  "signature": "inx3UPYjTvi+juNt1Gfm74+wBhcYYZ6EOIDL70LXUJDNB8sxeCv0nRsz9PC9CVVTt72hW5Zfy2PFf0siTS7EDQ=="
 }
