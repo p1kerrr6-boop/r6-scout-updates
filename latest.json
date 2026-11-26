@@ -1,8 +1,8 @@
 {
-  "version": "0.3.73",
+  "version": "0.3.74",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.73.zip",
-  "sha256": "d246de984a282a07c3eb05da0eff84ff837f9be4b0bae5e949cd608eec4e0a8c",
-  "notes": "Round Viewer: share your pinned notes with teammates. Under Notes, press Share notes to send this round or the whole game by WhatsApp or email, copy the message, or save it as a file. Teammates press Import notes, paste the message or open the file, check the preview and add them. Each note shows who wrote it, and the prep deck Coach notes slide shows the author. Restart the app after updating.",
-  "signature": "PDUUvXmfjdbV5n8YVyyCD2d0Fw/rImBexRtK8HQv91YxkjHnLplUfKLgK92NzLbkGd6lgsAcJTozqB8OZzzmAA=="
+  "zip": "r6-scout-update-0.3.74.zip",
+  "sha256": "x",
+  "notes": "Round Viewer: the Players list now shows each player's operator and their kills so far (with headshots), who killed them and when, and each team's alive and kill count. A Number / Dots switch changes how kills are shown and is remembered. Restart the app after updating.",
+  "signature": "WQvvJvMapZsBp6bN+wGtPssm52dNtIBk7QfN7VOa6xEqi0/IgYjynS6TB0PQ1brtT5NY5SrDRbkFFScRactwCw=="
 }
