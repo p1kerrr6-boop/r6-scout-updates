@@ -1,8 +1,8 @@
 {
-  "version": "0.3.74",
+  "version": "0.3.75",
   "minBase": "0.3.0",
-  "zip": "r6-scout-update-0.3.74.zip",
-  "sha256": "e7a4622e555fe5679121ca20ac1ce71e816da7139a5749fa2f744b2755f435b3",
-  "notes": "Round Viewer: the Players list now shows each player's operator and their kills so far (with headshots), who killed them and when, and each team's alive and kill count. A Number / Dots switch changes how kills are shown and is remembered. Restart the app after updating.",
-  "signature": "inx3UPYjTvi+juNt1Gfm74+wBhcYYZ6EOIDL70LXUJDNB8sxeCv0nRsz9PC9CVVTt72hW5Zfy2PFf0siTS7EDQ=="
+  "zip": "r6-scout-update-0.3.75.zip",
+  "sha256": "a0df021bfdd6ad46b693c8a76e01c9e8ab8890a43d5975c45df6f16316e5f9dd",
+  "notes": "Siege replay sync: on the R6 Prep tab, under Batch export, choose Siege's MatchReplay folder and switch on the copy option. New match folders from your Input folder are then copied into Siege so you can watch them in the game. It only ever adds replays: nothing in Siege is changed, replaced or removed. Nothing is copied while Siege is open, or if it cannot be told whether Siege is open. It is off until you switch it on. Restart the app after updating.",
+  "signature": "B9xJMsTBgIJuM8Oap39XZXkXbSzAKpmwq4mBJ9oR2Fft4C2FMgCZWhpNLsDel8PPMrhVn2vuU/BuQNgCZwQiCw=="
 }
